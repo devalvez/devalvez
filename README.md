@@ -27,5 +27,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devalvez&repo=emacs-init)](https://github.com/anuraghazra/macs-init)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devalvez)](https://github.com/anuraghazra/github-readme-stats)
 
 ----------------------------------------------------------------------------------
