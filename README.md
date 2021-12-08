@@ -24,14 +24,8 @@ Here are some ideas to get you started:
 <br /><br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvez&show_icons=true&count_private=true&theme=tokyonight&bg_color=white)
 <br />
-
-<div style="width: 320px;"></div>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devalvez&repo=emacs-init)](https://github.com/anuraghazra/macs-init)
 <br />
-
-<div style="width: 320px;">&nbsp;</div>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
