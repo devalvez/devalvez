@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wesleyaalvez)
 <br /><br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvez&show_icons=true&count_private=true&theme=tokyonight&bg_color=white)
+<img src="https://github.com/devalvez/devalvez/undraw_solution_mindset_-34-bi.svg" alt="mindset.svg" />
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devalvez&repo=emacs-init)](https://github.com/anuraghazra/macs-init)
 <br />
