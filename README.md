@@ -15,22 +15,18 @@ Here are some ideas to get you started:
 
 ----------------------------------------------------------------------------
 
-# Bem-vindo! Eu sou Wesley!
-
-## Sobre Mim
-
+# Bem-vindo, me chamo Wesley A. Alves!
+#### Sobre Mim ####
+💻 Desenvolvedor Web FullStack &nbsp;&nbsp; 🇧🇷 Brasileiro &nbsp;&nbsp; 🐧 Usuário Linux <br />
+<br />
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](hhttps://twitter.com/WesleyAAlves1)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wesleyaalvez)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvez&show_icons=true&theme=tokyonight&bg_color=white)
+<br /><br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvez&show_icons=true&count_private=true&theme=tokyonight&bg_color=white)
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devalvez&repo=emacs-init)](https://github.com/anuraghazra/macs-init)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devalvez&repo=sicoobnet-installer-script)](https://github.com/anuraghazra/sicoobnet-installer-script)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalvez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-- Obrigado por visitar.
-
-- Enjoy it!! o/
 
 ----------------------------------------------------------------------------------
