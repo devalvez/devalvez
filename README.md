@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvez&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=white)
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devalvez&repo=emacs-init)](https://github.com/devalvez/emacs-init)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devalvez&repo=wbank-api)](https://github.com/devalvez/wbank-api)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
