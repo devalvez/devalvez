@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wesleyaalvez) &nbsp;&nbsp;&nbsp;
 [![wakatime](https://wakatime.com/badge/user/57b18355-951e-4717-828c-85840f6d39e3.svg?style=for-the-badge)](https://wakatime.com/@57b18355-951e-4717-828c-85840f6d39e3)
 <br /><br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvez&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=white)
+![devalvez's GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvez&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=transparent)
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devalvez&repo=emacs-init)](https://github.com/devalvez/emacs-init)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devalvez&repo=wbank-api)](https://github.com/devalvez/wbank-api)
