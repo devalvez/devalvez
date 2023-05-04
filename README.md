@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ----------------------------------------------------------------------------
 
-# Bem-vindo! Me chamo Wesley A. Alves...
-#### Sobre Mim ####
+# It's me Wesley A. Alves...
+#### Um Pouco de Sobre Mim ####
 💻 Desenvolvedor Web FullStack &nbsp;&nbsp; 🇧🇷 Brasileiro &nbsp;&nbsp; 🐧 Usuário Linux <br />
 <br />
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](hhttps://twitter.com/WesleyAAlves1)
