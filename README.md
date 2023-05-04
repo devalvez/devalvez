@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 
 ----------------------------------------------------------------------------
 
-# It's me Wesley A. Alves...
+# It's me Wesley A. Alves... <img src="https://github.com/devalvez/devalvezblog/raw/main/thumbnail.svg" alt="devalvez-cube" align="right" width="180" height="180" />
+
 #### Um Pouco de Sobre Mim ####
-💻 Desenvolvedor Web FullStack &nbsp;&nbsp; 🇧🇷 Brasileiro &nbsp;&nbsp; 🐧 Usuário Linux <br />
+👓 💻 🇧🇷 Desenvolvedor Web FullStack &nbsp;&nbsp; &nbsp;&nbsp; 🐧 Linux User <br />
 <br />
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](hhttps://twitter.com/WesleyAAlves1)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wesleyaalvez) &nbsp;&nbsp;&nbsp;
@@ -25,33 +26,24 @@ Here are some ideas to get you started:
 <br /><br />
 ## Tecnologias
 <p>
+<img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" />
 <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- 
- 
-
 <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
-
-
 <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
- 
 <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
- 
 <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+ 
  </p>
 
 <br /><br />
-![devalvez's GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvez&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=transparent)
+![devalvez's GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvez&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=transparent&rank_icon=github)
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devalvez&repo=emacs-init)](https://github.com/devalvez/emacs-init)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devalvez)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalvez&hide_title=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 ----------------------------------------------------------------------------------
