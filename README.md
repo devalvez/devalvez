@@ -46,4 +46,5 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devalvez&repo=emacs-init)](https://github.com/devalvez/emacs-init)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalvez&hide_title=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grupomoura&langs_count=4&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
 ----------------------------------------------------------------------------------
