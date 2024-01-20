@@ -40,14 +40,4 @@ Here are some ideas to get you started:
 <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
  
- </p>
-
-<br /><br />
-![devalvez's GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvez&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=transparent&rank_icon=github)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devalvez&repo=emacs-init)](https://github.com/devalvez/emacs-init)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalvez&hide_title=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalvez&langs_count=15&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-----------------------------------------------------------------------------------
+ 
