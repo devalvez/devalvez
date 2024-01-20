@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 
 ----------------------------------------------------------------------------
 
-# It's me Wesley A. Alves... <img src="./devalvez-cube.svg" alt="devalvez-cube" align="right" width="260" height="260" />
 
+
+# It's me
+![header.png](./header.png)
 #### Um Pouco de Sobre Mim ####
 👓 💻 🇧🇷 Desenvolvedor Web FullStack &nbsp;&nbsp; &nbsp;&nbsp; 🐧 Linux User <br />
 <br />
@@ -41,13 +43,5 @@ Here are some ideas to get you started:
 <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
  
  </p>
-
-<br /><br />
-![devalvez's GitHub stats](https://github-readme-stats.vercel.app/api?username=devalvez&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=transparent&rank_icon=github)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devalvez&repo=emacs-init)](https://github.com/devalvez/emacs-init)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalvez&hide_title=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalvez&langs_count=15&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-----------------------------------------------------------------------------------
+ 
+![rectangle-right-circle](./rectangle-right-circle.png)
