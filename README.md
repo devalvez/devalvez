@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ----------------------------------------------------------------------------
 
-# It's me Wesley A. Alves... <img src="./devalvez-cube.svg" alt="devalvez-cube" align="right" width="260" height="260" />
+# It's me Wesley A. Alves...
 
 #### Um Pouco de Sobre Mim ####
 👓 💻 🇧🇷 Desenvolvedor Web FullStack &nbsp;&nbsp; &nbsp;&nbsp; 🐧 Linux User <br />
