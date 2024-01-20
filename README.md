@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ----------------------------------------------------------------------------
 
-# Hi there! Wesley here...
+# Hi there!
 ![header.png](./header.png)
 #### Um Pouco de Sobre Mim ####
 👓 💻 🇧🇷 Desenvolvedor Web FullStack &nbsp;&nbsp; &nbsp;&nbsp; 🐧 Linux User <br />
