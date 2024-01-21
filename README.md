@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 
 ----------------------------------------------------------------------------
 
-# Hi there! I'm Wesley A. Alves
-#### Um Pouco de Sobre Mim ####
-👓 💻 🇧🇷 Desenvolvedor Web FullStack &nbsp;&nbsp; &nbsp;&nbsp; 🐧 Linux User <br />
+# Hello there!
+Sou **Wesley A. Alves**, um desenvolvedor apaixonado por desenvolver aplicações web. Minha jornada no mundo da programação começou com a curiosidade de dar vida a ideias por meio do código.
+
+Acredito na aprendizagem contínua e em manter-me atualizado com o cenário tecnológico em constante evolução. Atualmente, estou aprofundando meus conhecimentos em JavaScript no Back-End e explorando maneiras de aumentar performance e escalabilidade com essa tecnologia, que hoje se encotrado em diversos cenários.
+
 <br />
 [<img src="https://img.shields.io/badge/twitter-%17202aF2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/devalvez)
 [<img src = "https://img.shields.io/badge/instagram-%17202a5F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/devalvez/) 
