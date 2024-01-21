@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 
 ----------------------------------------------------------------------------
 
-# Hello there!
+## Hello there!
+
 Sou **Wesley A. Alves**, um desenvolvedor apaixonado por desenvolver aplicações web. Minha jornada no mundo da programação começou com a curiosidade de dar vida a ideias por meio do código.
 
 Acredito na aprendizagem contínua e em manter-me atualizado com o cenário tecnológico em constante evolução. Atualmente, estou aprofundando meus conhecimentos em JavaScript no Back-End e explorando maneiras de aumentar performance e escalabilidade com essa tecnologia, que hoje se encotrado em diversos cenários.
 
-<br />
-[<img src="https://img.shields.io/badge/twitter-%17202aF2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/devalvez)
-[<img src = "https://img.shields.io/badge/instagram-%17202a5F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/devalvez/) 
+
+<a href="https://twitter.com/devalvez" target="_blank"><img src="https://img.shields.io/badge/twitter-%17202aF2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.instagram.com/devalvez/" target="_blank"><img src = "https://img.shields.io/badge/instagram-%17202a5F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+
 [![wakatime](https://wakatime.com/badge/user/57b18355-951e-4717-828c-85840f6d39e3.svg?style=for-the-badge)](https://wakatime.com/@devalvez)
-<br /><br />
 
 Techs
 ---
